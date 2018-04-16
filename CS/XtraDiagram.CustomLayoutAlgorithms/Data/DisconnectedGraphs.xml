@@ -1,0 +1,44 @@
+﻿<XtraSerializer version="16.1.0.0">
+  <Items>
+    <Item1 Size="1385,675" ItemKind="DiagramRoot" Theme="Linear" PageSize="1385,675" SelectedStencils="BasicShapes,ArrowShapes">
+      <Children>
+        <Item1 Position="780,260" Size="100,75" FontSize="30" Angle="0" Shape="BasicShapes.Rectangle" Content="С3" ItemKind="DiagramShape" />
+        <Item2 Position="612,195" Size="100,75" FontSize="30" Angle="0" Shape="BasicShapes.Rectangle" Content="C2" ItemKind="DiagramShape" />
+        <Item3 Position="520,360" Size="100,75" FontSize="30" Angle="0" Shape="BasicShapes.Rectangle" Content="С1" ItemKind="DiagramShape" />
+        <Item4 Position="680,360" Size="100,75" FontSize="30" Angle="0" Shape="BasicShapes.Rectangle" Content="C5" ItemKind="DiagramShape" />
+        <Item5 Position="540,90" Size="100,75" FontSize="30" Angle="0" Shape="BasicShapes.Rectangle" Content="C4" ItemKind="DiagramShape" />
+        <Item6 Position="80,380" Size="100,75" FontSize="30" Angle="0" Shape="BasicShapes.Rectangle" Content="B5" ItemKind="DiagramShape" />
+        <Item7 Position="20,300" Size="100,75" FontSize="30" Angle="0" Shape="BasicShapes.Rectangle" Content="B8" ItemKind="DiagramShape" />
+        <Item8 Position="160,195" Size="100,75" FontSize="30" Angle="0" Shape="BasicShapes.Rectangle" Content="B7" ItemKind="DiagramShape" />
+        <Item9 Position="340,280" Size="100,75" FontSize="30" Angle="0" Shape="BasicShapes.Rectangle" Content="B3" ItemKind="DiagramShape" />
+        <Item10 Position="280,160" Size="100,75" FontSize="30" Angle="0" Shape="BasicShapes.Rectangle" Content="B1" ItemKind="DiagramShape" />
+        <Item11 Position="960,90" Size="100,75" FontSize="30" Angle="0" Shape="BasicShapes.Rectangle" Content="A4" ItemKind="DiagramShape" />
+        <Item12 Position="960,300" Size="100,75" FontSize="30" Angle="0" Shape="BasicShapes.Rectangle" Content="A2" ItemKind="DiagramShape" />
+        <Item13 Position="100,90" Size="100,75" FontSize="30" Angle="0" Shape="BasicShapes.Rectangle" Content="B4" ItemKind="DiagramShape" />
+        <Item14 Position="1084,360" Size="100,75" FontSize="30" Angle="0" Shape="BasicShapes.Rectangle" Content="A5" ItemKind="DiagramShape" />
+        <Item15 Position="1100,195" Size="100,75" FontSize="30" Angle="0" Shape="BasicShapes.Rectangle" Content="A1" ItemKind="DiagramShape" />
+        <Item16 Position="0,195" Size="100,75" FontSize="30" Angle="0" Shape="BasicShapes.Rectangle" Content="B2" ItemKind="DiagramShape" />
+        <Item17 Position="1140,90" Size="100,75" FontSize="30" Angle="0" Shape="BasicShapes.Rectangle" Content="A3" ItemKind="DiagramShape" />
+        <Item18 Position="200,300" Size="100,75" FontSize="30" Angle="0" Shape="BasicShapes.Rectangle" Content="B6" ItemKind="DiagramShape" />
+        <Item19 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="1010,290 1134,290" Type="RightAngle" ItemKind="DiagramConnector" BeginItem="10" EndItem="13" BeginPoint="1010,165" EndPoint="1134,360" />
+        <Item20 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="1074,338 1074,398" Type="RightAngle" ItemKind="DiagramConnector" BeginItem="11" EndItem="13" BeginPoint="1060,337.5" EndPoint="1084,397.5" />
+        <Item21 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="1190,185 1090,185 1090,355 1134,355" Type="RightAngle" ItemKind="DiagramConnector" BeginItem="16" EndItem="13" BeginPoint="1190,165" EndPoint="1134,360" />
+        <Item22 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="1070,232 1070,338" Type="RightAngle" ItemKind="DiagramConnector" BeginItem="14" EndItem="11" BeginPoint="1100,232.5" EndPoint="1060,337.5" />
+        <Item23 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="270,198 270,185 110,185 110,232" Type="RightAngle" ItemKind="DiagramConnector" BeginItem="9" EndItem="15" BeginPoint="280,197.5" EndPoint="100,232.5" />
+        <Item24 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="310,318 310,245 270,245 270,128" Type="RightAngle" ItemKind="DiagramConnector" BeginItem="8" EndItem="12" BeginPoint="340,317.5" EndPoint="200,127.5" />
+        <Item25 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="50,128" Type="RightAngle" ItemKind="DiagramConnector" BeginItem="15" EndItem="12" BeginPoint="50,195" EndPoint="100,127.5" />
+        <Item26 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="150,290 250,290" Type="RightAngle" ItemKind="DiagramConnector" BeginItem="12" EndItem="17" BeginPoint="150,165" EndPoint="250,300" />
+        <Item27 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="150,375 130,375" Type="RightAngle" ItemKind="DiagramConnector" BeginItem="12" EndItem="5" BeginPoint="150,165" EndPoint="130,380" />
+        <Item28 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="130,280 210,280" Type="RightAngle" ItemKind="DiagramConnector" BeginItem="5" EndItem="7" BeginPoint="130,380" EndPoint="210,270" />
+        <Item29 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="70,418" Type="RightAngle" ItemKind="DiagramConnector" BeginItem="5" EndItem="6" BeginPoint="80,417.5" EndPoint="70,375" />
+        <Item30 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="570,280 662,280" Type="RightAngle" ItemKind="DiagramConnector" BeginItem="2" EndItem="1" BeginPoint="570,360" EndPoint="662,270" />
+        <Item31 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="722,298 722,128" Type="RightAngle" ItemKind="DiagramConnector" BeginItem="0" EndItem="4" BeginPoint="780,297.5" EndPoint="640,127.5" />
+        <Item32 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="590,232" Type="RightAngle" ItemKind="DiagramConnector" BeginItem="1" EndItem="4" BeginPoint="612,232.5" EndPoint="590,165" />
+        <Item33 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="310,318 310,338" Type="RightAngle" ItemKind="DiagramConnector" BeginItem="8" EndItem="17" BeginPoint="340,317.5" EndPoint="300,337.5" />
+        <Item34 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="1070,232 1070,128" Type="RightAngle" ItemKind="DiagramConnector" BeginItem="14" EndItem="10" BeginPoint="1100,232.5" EndPoint="1060,127.5" />
+        <Item35 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="(Empty)" Type="RightAngle" ItemKind="DiagramConnector" BeginItem="2" EndItem="3" BeginPoint="620,397.5" EndPoint="680,397.5" />
+        <Item36 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="662,350 730,350" ItemKind="DiagramConnector" BeginItem="1" EndItem="3" BeginPoint="662,270" EndPoint="730,360" />
+      </Children>
+    </Item1>
+  </Items>
+</XtraSerializer>

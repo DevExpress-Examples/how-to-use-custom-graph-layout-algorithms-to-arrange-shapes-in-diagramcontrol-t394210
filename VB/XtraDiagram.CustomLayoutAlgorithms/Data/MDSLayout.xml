@@ -1,0 +1,38 @@
+﻿<XtraSerializer version="16.1.0.0">
+  <Items>
+    <Item1 Size="794.78070129744,847.326091435705" ItemKind="DiagramRoot" Theme="Linear" PageSize="794.78070129744,847.326091435705" SelectedStencils="BasicShapes,ArrowShapes">
+      <Children>
+        <Item1 Position="180,380" Size="40,40" Angle="0" Shape="BasicShapes.Ellipse" Content="13" ItemKind="DiagramShape" />
+        <Item2 Position="260,580" Size="40,40" Angle="0" Shape="BasicShapes.Ellipse" Content="14" ItemKind="DiagramShape" />
+        <Item3 Position="480,440" Size="40,40" Angle="0" Shape="BasicShapes.Ellipse" Content="15" ItemKind="DiagramShape" />
+        <Item4 Position="342.390390191003,384.701912840082" Size="40,40" Angle="0" Shape="BasicShapes.Ellipse" Content="16" ItemKind="DiagramShape" />
+        <Item5 Position="580,420" Size="40,40" Angle="0" Shape="BasicShapes.Ellipse" Content="11" ItemKind="DiagramShape" />
+        <Item6 Position="412.440234152118,558.371755882604" Size="40,40" Angle="0" Shape="BasicShapes.Ellipse" Content="12" ItemKind="DiagramShape" />
+        <Item7 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="(Empty)" Type="Straight" ItemKind="DiagramConnector" BeginItem="4" EndItem="5" BeginPoint="584.578633057686,452.735047767107" EndPoint="447.861601094433,565.636708115497" />
+        <Item8 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="(Empty)" Type="Straight" ItemKind="DiagramConnector" BeginItem="5" EndItem="0" BeginPoint="416.57363190745,566.195921898458" EndPoint="215.866602244668,412.175833984146" />
+        <Item9 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="(Empty)" Type="Straight" ItemKind="DiagramConnector" BeginItem="0" EndItem="1" BeginPoint="207.427813527082,418.569533817705" EndPoint="272.572186472918,581.430466182295" />
+        <Item10 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="(Empty)" Type="Straight" ItemKind="DiagramConnector" BeginItem="1" EndItem="2" BeginPoint="296.873229754642,589.262490156137" EndPoint="483.126770245358,470.737509843863" />
+        <Item11 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="(Empty)" Type="Straight" ItemKind="DiagramConnector" BeginItem="2" EndItem="3" BeginPoint="481.442312673428,452.54263846329" EndPoint="380.948077517575,412.159274376791" />
+        <Item12 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="(Empty)" Type="Straight" ItemKind="DiagramConnector" BeginItem="3" EndItem="4" BeginPoint="382.173291179548,407.640760994965" EndPoint="580.217099011456,437.061151845117" />
+        <Item13 Position="360,440" Size="40,40" Angle="0" Shape="BasicShapes.Ellipse" Content="23" ItemKind="DiagramShape" />
+        <Item14 Position="342.390390191003,140" Size="40,40" Angle="0" Shape="BasicShapes.Ellipse" Content="24" ItemKind="DiagramShape" />
+        <Item15 Position="240,220" Size="40,40" Angle="0" Shape="BasicShapes.Ellipse" Content="25" ItemKind="DiagramShape" />
+        <Item16 Position="441.905424353306,236.530192593789" Size="40,40" Angle="0" Shape="BasicShapes.Ellipse" Content="26" ItemKind="DiagramShape" />
+        <Item17 Position="640,340" Size="40,40" Angle="0" Shape="BasicShapes.Ellipse" Content="21" ItemKind="DiagramShape" />
+        <Item18 Position="520,360" Size="40,40" Angle="0" Shape="BasicShapes.Ellipse" Content="22" ItemKind="DiagramShape" />
+        <Item19 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="(Empty)" Type="Straight" ItemKind="DiagramConnector" BeginItem="16" EndItem="17" BeginPoint="640.272121523357,363.287979746107" EndPoint="559.727878476643,376.712020253893" />
+        <Item20 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="(Empty)" Type="Straight" ItemKind="DiagramConnector" BeginItem="17" EndItem="12" BeginPoint="522.111456180002,388.944271909999" EndPoint="397.888543819998,451.055728090001" />
+        <Item21 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="(Empty)" Type="Straight" ItemKind="DiagramConnector" BeginItem="12" EndItem="13" BeginPoint="378.828043286868,440.034366589999" EndPoint="363.562346904135,179.965633410001" />
+        <Item22 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="(Empty)" Type="Straight" ItemKind="DiagramConnector" BeginItem="13" EndItem="14" BeginPoint="346.630463353532,172.313598421158" EndPoint="275.759926837471,227.686401578842" />
+        <Item23 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="(Empty)" Type="Straight" ItemKind="DiagramConnector" BeginItem="14" EndItem="15" BeginPoint="279.933306536354,241.631959107252" EndPoint="441.972117816952,254.898233486537" />
+        <Item24 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="(Empty)" Type="Straight" ItemKind="DiagramConnector" BeginItem="15" EndItem="16" BeginPoint="479.632857934744,265.789679545866" EndPoint="642.272566418562,350.740513047923" />
+        <Item25 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="(Empty)" Type="Straight" ItemKind="DiagramConnector" BeginItem="4" EndItem="16" BeginPoint="612,424" EndPoint="648,376" />
+        <Item26 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="(Empty)" Type="Straight" ItemKind="DiagramConnector" BeginItem="5" EndItem="17" BeginPoint="441.973324268896,560.789941618274" EndPoint="530.466909883222,397.58181426433" />
+        <Item27 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="(Empty)" Type="Straight" ItemKind="DiagramConnector" BeginItem="0" EndItem="12" BeginPoint="218.97366596101,406.324555320337" EndPoint="361.02633403899,453.675444679663" />
+        <Item28 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="(Empty)" Type="Straight" ItemKind="DiagramConnector" BeginItem="1" EndItem="13" BeginPoint="283.681039762966,580.341669799714" EndPoint="358.709350428037,179.658330200286" />
+        <Item29 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="(Empty)" Type="Straight" ItemKind="DiagramConnector" BeginItem="2" EndItem="14" BeginPoint="485.256917195985,446.485507429653" EndPoint="274.743082804015,253.514492570347" />
+        <Item30 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="(Empty)" Type="Straight" ItemKind="DiagramConnector" BeginItem="3" EndItem="15" BeginPoint="373.541260165244,388.098958319347" EndPoint="450.754554379065,273.133147114523" />
+      </Children>
+    </Item1>
+  </Items>
+</XtraSerializer>

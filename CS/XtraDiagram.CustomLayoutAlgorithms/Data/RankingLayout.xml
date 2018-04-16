@@ -1,0 +1,22 @@
+﻿<XtraSerializer version="16.1.0.0">
+  <Items>
+    <Item1 Size="875.835355009883,753.386509950357" ItemKind="DiagramRoot" Theme="Linear" PageSize="875.835355009883,753.386509950357" SelectedStencils="BasicShapes,ArrowShapes">
+      <Children>
+        <Item1 Position="208,336" Size="100,75" FontSize="30" Angle="0" Shape="BasicShapes.Rectangle" Content="1.1" ItemKind="DiagramShape" />
+        <Item2 Position="64,112" Size="100,75" FontSize="30" Angle="0" Shape="BasicShapes.Rectangle" Content="2.1" ItemKind="DiagramShape" />
+        <Item3 Position="256,32" Size="100,75" FontSize="30" Angle="0" Shape="BasicShapes.Rectangle" Content="2.2" ItemKind="DiagramShape" />
+        <Item4 Position="448,90" Size="100,75" FontSize="30" Angle="0" Shape="BasicShapes.Rectangle" Content="3.1" ItemKind="DiagramShape" />
+        <Item5 Position="64,288" Size="100,75" FontSize="30" Angle="0" Shape="BasicShapes.Rectangle" Content="3.2" ItemKind="DiagramShape" />
+        <Item6 Position="384,336" Size="100,75" FontSize="30" Angle="0" Shape="BasicShapes.Rectangle" Content="4.1" ItemKind="DiagramShape" />
+        <Item7 Position="304,224" Size="100,75" FontSize="30" Angle="0" Shape="BasicShapes.Rectangle" Content="5.1" ItemKind="DiagramShape" />
+        <Item8 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="258,112 306,112" ItemKind="DiagramConnector" BeginItem="0" EndItem="2" BeginPoint="258,336" EndPoint="306,107" />
+        <Item9 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="258,197 114,197" ItemKind="DiagramConnector" BeginItem="0" EndItem="1" BeginPoint="258,336" EndPoint="114,187" />
+        <Item10 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="258,128" ItemKind="DiagramConnector" BeginItem="0" EndItem="3" BeginPoint="258,336" EndPoint="448,127.5" />
+        <Item11 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="208,150 208,175 438,175 438,128" ItemKind="DiagramConnector" BeginItem="1" EndItem="3" BeginPoint="164,149.5" EndPoint="448,127.5" />
+        <Item12 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="(Empty)" ItemKind="DiagramConnector" BeginItem="1" EndItem="4" BeginPoint="114,187" EndPoint="114,288" />
+        <Item13 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="374,326 374,374" ItemKind="DiagramConnector" BeginItem="4" EndItem="5" BeginPoint="164,325.5" EndPoint="384,373.5" />
+        <Item14 BeginItemPointIndex="-1" EndItemPointIndex="-1" Points="498,262" ItemKind="DiagramConnector" BeginItem="3" EndItem="6" BeginPoint="498,165" EndPoint="404,261.5" />
+      </Children>
+    </Item1>
+  </Items>
+</XtraSerializer>
