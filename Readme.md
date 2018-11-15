@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [GraphLayout.cs](./CS/MsaglHelpers/Layout/GraphLayout.cs) (VB: [GraphLayout.vb](./VB/MsaglHelpers/Layout/GraphLayout.vb))
+* [PhyloTreeLayout.cs](./CS/MsaglHelpers/Layout/PhyloTreeLayout.cs) (VB: [PhyloTreeLayout.vb](./VB/MsaglHelpers/Layout/PhyloTreeLayout.vb))
+* [SugiyamaLayoutCalculator.cs](./CS/MsaglHelpers/LayoutCalculators/SugiyamaLayoutCalculator.cs) (VB: [SugiyamaLayoutCalculator.vb](./VB/MsaglHelpers/LayoutCalculators/SugiyamaLayoutCalculator.vb))
+* [CustomLayoutForm.cs](./CS/XtraDiagram.CustomLayoutAlgorithms/CustomLayoutForm.cs) (VB: [CustomLayoutForm.vb](./VB/XtraDiagram.CustomLayoutAlgorithms/CustomLayoutForm.vb))
+<!-- default file list end -->
 # How to use custom graph layout algorithms to arrange shapes in DiagramControl
 
 
